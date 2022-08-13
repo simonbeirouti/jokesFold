@@ -33,7 +33,7 @@ export default function App() {
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
-        <title>Remix: So great, it's funny!</title>
+        <title>Jokes on Remix 🤪</title>
         <Links />
       </head>
       <body>
